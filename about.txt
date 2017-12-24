@@ -1,0 +1,9 @@
+This is a MEAS stack app from following a youtube course
+Course name:    MEAN Stack Front To Back
+Instructor:     Travesty Media
+URL:            https://www.youtube.com/watch?v=uONz0lEWft0
+
+Initial steps:
+1. Create a new folder for project
+2. In cmd type 'npm init' to help create package.json file
+3. From there, changes should be noted in githib repository
