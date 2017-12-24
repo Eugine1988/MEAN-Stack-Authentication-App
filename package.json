@@ -8,7 +8,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "express":"*",
+    "express": "*",
     "mongoose": "*",
     "bcryptjs": "*",
     "cors": "*",
